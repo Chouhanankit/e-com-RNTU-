@@ -1,0 +1,1 @@
+export const URL = "https://best-deal-backend.onrender.com";
