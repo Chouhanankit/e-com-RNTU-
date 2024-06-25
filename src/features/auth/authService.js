@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const URL = "https://best-deal-backend.onrender.com"
+const URL = "https://e-com-backend-2zbp.onrender.com"
 
 const register = async (formData) => {
   const response = await axios.post(URL + "/api/user/register", formData);

@@ -1,1 +1,1 @@
-export const URL = "https://best-deal-backend.onrender.com";
+export const URL = "https://e-com-backend-2zbp.onrender.com";

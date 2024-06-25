@@ -1,7 +1,7 @@
 // src/api.js
 import axios from 'axios';
 
-const API_URL = 'https://best-deal-backend.onrender.com/api/products';
+const API_URL = 'https://e-com-backend-2zbp.onrender.com/api/products';
 
 export const getProducts = async () => {
   const response = await axios.get(API_URL);
